@@ -1,6 +1,6 @@
 # Fallstudie: Eishockeyliga
 
-##Was ist die Aufgabe?
+## Was ist die Aufgabe?
 
 Eine Eishockeyliga geht endlich den Schritt in die Digitalisierung und benötigt zur Verwaltung des Saisonablaufs eine zentrale Datenbank.
 
@@ -19,7 +19,7 @@ Position (Tor, Stürmer, Verteidiger).* **Vereine** mit Heimatstadt, Gründungsj
   * Bei welchem Spiel gab es die meisten Strafen?
   * Welcher Spieler wurde am häufigsten wegen „Unnötiger Härte“ bestraft?
   
-  ### Wie werden wir das Problem lösen?
+  ### Wie werden wir die Aufgabe lösen?
   
   Wir bildeten ein Team aus 3 Mitgliedern, um eine Lösung für diese Fallstudie zu finden. Unter der Aufsicht von Professor **Dominic Kroll**, der uns leitete und unsere Fragen beantwortete.
   

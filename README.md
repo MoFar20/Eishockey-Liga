@@ -11,7 +11,7 @@ Position (Tor, Stürmer, Verteidiger).* **Vereine** mit Heimatstadt, Gründungsj
 * **Schiedsrichter** können Spieler mit **Zeitstrafen** belegen. Diese werden für jedes Spiel mit Zeitstempel, Dauer, bestraftem Spieler, aussprechendem.
 
 * Die Fans interessieren sich für diese Informationen:
-* * Wie sieht die aktuelle Tabelle aus?
-* * Welche Mannschaft hat die meisten Gegentore pro Spiel kassiert?
-* * Bei welchem Spiel gab es die meisten Strafen?
-* * Welcher Spieler wurde am häufigsten wegen „Unnötiger Härte“ bestraft?
+  * Wie sieht die aktuelle Tabelle aus?
+  * Welche Mannschaft hat die meisten Gegentore pro Spiel kassiert?
+  * Bei welchem Spiel gab es die meisten Strafen?
+  * Welcher Spieler wurde am häufigsten wegen „Unnötiger Härte“ bestraft?

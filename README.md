@@ -18,6 +18,7 @@ Position (Tor, Stürmer, Verteidiger).* **Vereine** mit Heimatstadt, Gründungsj
   * Welche Mannschaft hat die meisten Gegentore pro Spiel kassiert?
   * Bei welchem Spiel gab es die meisten Strafen?
   * Welcher Spieler wurde am häufigsten wegen „Unnötiger Härte“ bestraft?
+  ----------
   
   ### Wie werden wir die Aufgabe lösen?
   

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ice Hockey League Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Ice Hockey League Management</h1>
+
+<!-- Club Form -->
+<h2>Add Club</h2>
+<form id="clubForm">
+    <input type="text" id="clubName" placeholder="Club Name" required>
+    <input type="text" id="homeTown" placeholder="Home Town" required>
+    <input type="number" id="yearFounded" placeholder="Year Founded" required>
+    <input type="text" id="managingDirector" placeholder="Managing Director" required>
+    <input type="text" id="address" placeholder="Address" required>
+    <input type="text" id="regionalAssociation" placeholder="Regional Association" required>
+    <button type="submit">Add Club</button>
+</form>
+
+<!-- Table to display clubs -->
+<h2>Clubs</h2>
+<table id="clubTable">
+    <thead>
+    <tr>
+        <th>Club Name</th>
+        <th>Home Town</th>
+        <th>Year Founded</th>
+        <th>Managing Director</th>
+        <th>Regional Association</th>
+    </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<script src="app.ts"></script>
+</body>
+</html>
